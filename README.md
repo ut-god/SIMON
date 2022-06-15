@@ -1,3 +1,4 @@
 # SIMON
 MADE A PHYSICAL PROTOYPE OF A FAMOUS MEMORY GAME (SIMON) USING ARDUNIO UNO 
-![IMG_20220516_224757 (1)](https://user-images.githubusercontent.com/88653523/173790949-7941a495-1064-47c6-ac5a-5feba28dea53.jpg)
+![IMG_20220516_224757 (1)-min](https://user-images.githubusercontent.com/88653523/173791658-b55c759e-4988-4ab6-b205-bbfaef907d2c.jpg)
+
